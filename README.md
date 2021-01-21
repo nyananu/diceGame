@@ -1,7 +1,9 @@
 <h1> * Dice Game * </h1>
 <p> 
   Challenge your friends to a game of high stakes, using nothing more than a simple dice! 
- 
+  
+ ![](diceGameScreenCap.gif)
+  
   Here are the rules:
   <ul>
    <li>
